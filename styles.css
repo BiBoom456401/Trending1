@@ -107,17 +107,6 @@
     border: 2px solid red;
   }
 
-  li.page{
-    text-align: center;
-    display: inline-block;
-    border: none;
-    border-radius: 5px;
-    height: 40px;
-    line-height: 40px;
-  }
-
-
-
-.li{
-  text-emphasis: none;
+.img-fluid-rounded-start{
+  object-fit: contain;
 }
