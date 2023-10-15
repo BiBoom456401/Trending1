@@ -1,0 +1,32 @@
+footer{
+    background-color:#ccc;
+    text-align:center;
+    padding:25px;
+    font-size:18px;
+    display: block;
+    width:  100%;
+    bottom: 0;
+    position: absolute;
+    margin: 0 0;
+    padding-top: 20px;
+    
+}
+
+.footer_content{
+    width: 100%;
+    display:  flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10; 
+}
+
+.ul{
+    list-style: none;
+    width: 90%;
+}
+
+.content{
+    box-sizing: border-box;
+    width: 70%;
+    list-style: none;
+}
