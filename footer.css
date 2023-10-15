@@ -1,5 +1,10 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+  }
+
 footer{
-    background-color:#ccc;
     text-align:center;
     padding:25px;
     font-size:18px;
@@ -9,7 +14,6 @@ footer{
     position: absolute;
     margin: 0 0;
     padding-top: 20px;
-    
 }
 
 .footer_content{
@@ -22,11 +26,21 @@ footer{
 
 .ul{
     list-style: none;
-    width: 90%;
+    width: 50%;
+    margin-left: 20%;
 }
 
 .content{
     box-sizing: border-box;
-    width: 70%;
+    width: 30%;
     list-style: none;
+}
+
+h3{
+    left: 100%;
+}
+
+img {
+    width: 80%;
+    height: 80%;
 }
